@@ -13,30 +13,30 @@ def telo_ega():
     penColor(220, 220, 220)
     brushColor(40, 40, 40)
     oval(300, 530, 400, 470)
-    #туловище
+    #tulovische
 
     oval(319 - 6, 523 - 3, 319 + 6, 523 + 3)
-    #нога 2-я слева
+    #noga 2-ya sleva
 
     oval(307 - 6, 515 - 3, 307 + 6, 515 + 3)
-    #самая левая нога
+    #samaya levaya noga
 
     oval(394 - 6, 514 - 3, 394 + 6, 514 + 3)
-    #самая правая нога
+    #samaya pravaya noga
 
     oval(383 - 6, 522 - 3, 383 + 6, 522 + 3)
-    #вторая справа нога
+    #vtoraya sprava noga
 
     oval(382, 490, 418, 513)
-    #голова
+    #golova
 
     circle(418, (490+513)/2, 2)
-    #нос
+    #nos
 
     brushColor(0, 0, 0)
     circle(395, (490 + 513) / 2 - 3, 2)
     circle(403, (490 + 513) / 2 - 5, 2)
-    #глаза
+    #glaza
 
 
 
